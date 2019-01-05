@@ -1,0 +1,8 @@
+{
+  "name": "install-scripts-tester",
+  "version": "1.0.0",
+  "repository": "git@github.com:tomasz-sodzawiczny/install-scripts-tester.git",
+  "author": "Tomasz Sodzawiczny <tomasz.sodzawiczny@brainly.com>",
+  "license": "MIT",
+  "private": true
+}
