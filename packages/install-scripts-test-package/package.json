@@ -1,0 +1,14 @@
+{
+  "name": "install-scripts-test-package",
+  "version": "2.0.0",
+  "license": "MIT",
+  "scripts": {
+    "prepublish": "echo prepublish >> script.log",
+    "prepublishOnly": "echo prepublishOnly >> script.log",
+    "prepare": "echo prepare >> script.log",
+    "preinstall": "echo preinstall >> script.log",
+    "install": "echo install >> script.log",
+    "postinstall": "echo postinstall >> script.log",
+    "clean": "rm -f script.log"
+  }
+}
